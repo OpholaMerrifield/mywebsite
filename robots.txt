@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://opholamerrifield.github.io/mywebsite/sitemap.xml
